@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
         alert("Your download is starting... 🚀");
 
         // Start the download
-        window.location.href = "https://github.com/arpanghosal0160/miniprj/releases/download/v1.0/AAGNI-Setup.exe";
+        window.location.href = "https://github.com/arpanghosal0160/miniprj";
 
         // Optional: Log the download event
         console.log("User clicked on the download button.");
